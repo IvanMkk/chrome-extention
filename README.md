@@ -7,6 +7,8 @@ Tamed Mr. Typony is a typing assistant that suggests how to complete your phrase
 ## How we built it
 Tamed Mr. Typony was built as part of the Devpost Hackathon for the Google Chrome Built-in AI Challenge. The goal was to develop a web application or Chrome Extension that uses Chrome's built-in AI APIs to leverage integrated models such as Gemini Nano.
 
+[googlechromeai.devpost.com](https://googlechromeai.devpost.com/?ref_feature=challenge&ref_medium=discover)
+
 ## Key technologies used:
 - Java Script
 - Chrome Built-in AI APIs
